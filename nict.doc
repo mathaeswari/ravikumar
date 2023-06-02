@@ -1,0 +1,26 @@
+Subject:  R Programming Language                                                      Total Hours:30
+FUNDAMENTALS OF R:
+Installation of R & R Studio, Features of R, Variables in R, Constants in R, Operators in R, Datatypes and R Objects, Accepting Input from keyboard, Important Built-in functions
+ VECTORS:
+Creating Vectors, Accessing elements of a Vector, Operations on Vectors.
+CONTROL STATEMENTS:
+I statement, if…else statement, if else () function, switch () function, repeat loop, while loop, for loop, break statement, next statement
+FUNCTIONS IN R:
+Formal and Actual arguments, Named arguments, Global and local variables, Argument and lazy evaluation of functions, Recursive functions
+MATRICES:
+Creating matrices, Accessing elements of a Matrix, Operations on Matrices, Matrix transpose.
+STRINGS:
+Creating strings, paste () and paste0(), Formatting numbers and string using format (), String manipulation.
+
+ARRAYS IN R:
+Creating arrays, Accessing array elements, Calculations across array elements.
+
+DATA FRAMES IN R:
+Creating data frame, Operations on data frames, accessing data frames, Creating data frames from various sources.
+DATA VISUALIZATION IN R:
+Need for data visualization, Bar plot, Plotting categorical data, Stacked bar plot, Histogram, plot () function and line plot, pie chart / 3D pie chart, Scatter plot, Box plot
+STRINGR PACKAGE:
+Important functions in stringer, Regular expressions.
+DPLYR PACKAGE:
+Load data into data frame, Viewing the data, selecting columns, selecting rows, Reordering the rows
+
